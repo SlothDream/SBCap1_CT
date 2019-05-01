@@ -15,7 +15,7 @@ My analysis primarily checks for existing biases and tests the post-bill versus 
 5.  <a href="https://github.com/SlothDream/SBCap1_CT/blob/master/Project%20milestones.pdf">Project Milestones (combined reports 1-4)</a>
 6.  <a href="https://github.com/SlothDream/SBCap1_CT/blob/master/Data%20Modeling.pdf">Data Modeling</a>
 7.  <a href="https://github.com/SlothDream/SBCap1_CT/blob/master/Final%20Report.pdf">Final Report (combined reports 5-6)</a>
-7.  <a href="">Presentation Slides (not yet available)</a>
+7.  <a href="https://github.com/SlothDream/SBCap1_CT/blob/master/CT_Slides.pdf">Presentation Slides</a>
 
 <b>Code:</b>
 1.  <a href="https://github.com/SlothDream/SBCap1_CT/blob/master/CT_csv.ipynb">Data Wrangling</a>
